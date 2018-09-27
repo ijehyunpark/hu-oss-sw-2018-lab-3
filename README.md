@@ -1,4 +1,4 @@
 OSS SW Lab.
 ===========
 
- * Je Hyun Park
+ * JeHyunPark
